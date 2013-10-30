@@ -1,4 +1,4 @@
 ocaml_bignum
 ============
 
-Own implementation of an arbitrary number library in OCaml
+Own implementation of an arbitrary precision number library in OCaml
